@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513606382368",
+    "firebase_url": "https://memchat-f15d9.firebaseio.com",
+    "project_id": "memchat-f15d9",
+    "storage_bucket": "memchat-f15d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513606382368:android:c8a7944a917cd57f0a5d45",
+        "android_client_info": {
+          "package_name": "com.iskander.memchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513606382368-anmtt7nbgk5f0sqcm0du4vv9b7ikbrjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj2-ZsMiEGWmMVUoocvPr8wybUkylZKp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513606382368-anmtt7nbgk5f0sqcm0du4vv9b7ikbrjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
